@@ -31,7 +31,12 @@ staticfiles/
 .DS_Store
 Thumbs.db
 
-# ── Requirements compiled ─────────────────
+# ── Build / Packaging ─────────────────────
 *.egg-info/
 dist/
 build/
+
+# ── Pytest / Coverage ─────────────────────
+.pytest_cache/
+htmlcov/
+.coverage
