@@ -21,6 +21,7 @@ staticfiles/
 .env.*
 .env.local
 .env.production
+!.env.example
 
 # ── IDE ───────────────────────────────────
 .vscode/
