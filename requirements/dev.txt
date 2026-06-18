@@ -1,0 +1,4 @@
+-r base.txt
+
+# ── Better Django Shell ───────────────────
+ipython==8.24.0

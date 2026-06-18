@@ -1,0 +1,4 @@
+-r base.txt
+
+# ── Static Files (Production) ─────────────
+whitenoise==6.7.0

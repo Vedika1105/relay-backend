@@ -1,0 +1,37 @@
+# ── Virtual Environment ───────────────────
+venv/
+env/
+ENV/
+
+# ── Python Cache ──────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# ── Django Specific ───────────────────────
+*.log
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# ── Environment Variables (NEVER push) ────
+.env
+.env.*
+.env.local
+.env.production
+
+# ── IDE ───────────────────────────────────
+.vscode/
+.idea/
+*.swp
+
+# ── OS ────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Requirements compiled ─────────────────
+*.egg-info/
+dist/
+build/
