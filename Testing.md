@@ -1,7 +1,0 @@
-3cbcd0095e954390be8b6c807a9b9c59
-
-App id - 3cbcd0095e954390be8b6c807a9b9c59
-
-primary - dafd0cda4994421ab590349c0adb4f8d
-
-secondary - 27f4f4e5c0f24823a708cf3c9f264e26
