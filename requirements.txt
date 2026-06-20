@@ -7,7 +7,7 @@ django-cors-headers==4.3.1
 djangorestframework-simplejwt==5.3.1
 
 # ── Database ──────────────────────────────
-psycopg2-binary==2.9.9
+psycopg[binary]==3.2.3
 
 # ── Real-time ─────────────────────────────
 channels==4.1.0
